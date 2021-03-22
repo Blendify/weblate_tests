@@ -9,46 +9,43 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blender 2.80 Manual 2.80\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-24 16:51-0400\n"
+"POT-Creation-Date: 2021-03-17 00:56-0400\n"
 "PO-Revision-Date: 2020-11-10 23:01+0100\n"
 "Last-Translator: Daniel Thonon <d.thonon9@gmail.com>\n"
 "Language: fr\n"
 "Language-Team: français <bf-docboard@blender.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
-"X-Generator: Poedit 2.4.2\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/404.html:2
+#: ../../resources/templates/404.html:2 ../../resources/templates/404.html:21
 msgid "Not Found (404)"
 msgstr "Not Found (404)"
 
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/404.html:21
-msgid " Not Found (404) "
-msgstr " Not Found (404) "
-
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/404.html:22
-msgid ""
-"It seems the page you are trying to find has been either moved or deleted."
+#: ../../resources/templates/404.html:22
+msgid "It seems the page you are trying to find has been either moved or deleted."
 msgstr ""
 "Il semble que la page que vous essayez de trouver a été déplacée ou "
 "supprimée."
 
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/404.html:23
+#: ../../resources/templates/404.html:23
 msgid "You can try one of the following things:"
 msgstr "Vous pouvez essayer une des actions suivantes :"
 
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/404.html:30
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/404.html:31
+#: ../../resources/templates/404.html:30 ../../resources/templates/404.html:31
 msgid "Return Home"
 msgstr "Retour à l’accueil"
 
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/footer.html:7
+#: ../../resources/templates/footer.html:7
 msgid "Edit Page"
 msgstr "Éditer la page"
 
-#: C:/Users/Aaron/Documents/Projects/Blender_Foundation/blender_docs/manual/../resources/templates/footer.html:10
+#: ../../resources/templates/footer.html:10
 msgid "Report Bug"
 msgstr "Signaler l'anomalie (*Bug*)"
+
+#~ msgid " Not Found (404) "
+#~ msgstr " Not Found (404) "
+
